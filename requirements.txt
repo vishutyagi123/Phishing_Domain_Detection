@@ -1,6 +1,4 @@
-Flask==3.0.3
 beautifulsoup4==4.12.3
-gunicorn==22.0.0
 dnspython==2.0.0
 ipwhois==1.2.0
 numpy==1.26.4
@@ -15,3 +13,4 @@ urllib3==2.2.1
 validators==0.28.1
 xgboost==2.0.3
 streamlit==1.31.0
+
