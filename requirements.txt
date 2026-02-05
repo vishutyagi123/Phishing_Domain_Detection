@@ -14,3 +14,4 @@ scipy==1.13.0
 urllib3==2.2.1
 validators==0.28.1
 xgboost==2.0.3
+streamlit==1.31.0
