@@ -2,7 +2,7 @@ beautifulsoup4==4.12.3
 dnspython==2.0.0
 ipwhois==1.2.0
 numpy==1.26.4
-pandas==2.2.2
+pandas==2.1.4
 pyparsing==3.1.2
 pyshorteners==1.0.1
 python-whois==0.9.3
@@ -13,4 +13,5 @@ urllib3==2.2.1
 validators==0.28.1
 xgboost==2.0.3
 streamlit==1.31.0
+
 
