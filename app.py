@@ -1027,3 +1027,7 @@ with st.sidebar:
     - ✅ No setup required
     - ✅ Access anytime
     """)
+
+
+if __name__ == "__main__":
+    main()
